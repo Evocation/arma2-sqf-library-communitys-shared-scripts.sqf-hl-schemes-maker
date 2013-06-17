@@ -1,0 +1,1 @@
+copy "schemes\Maniac.v7.0+\*.*" "D:\den\www-client-scripting\_js\_syntax-highlighters\Maniacs\highlight.v.7.3.0\highlight.js-master\src\languages\*.*"
